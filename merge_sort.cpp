@@ -1,7 +1,4 @@
 //Merge Sort
-//Time Complexity : O(nlogn) -> Worst Case , Average Case , Best Case
-// Divide And Conquer , Recursion
-
 
 #include <bits/stdc++.h>
 
