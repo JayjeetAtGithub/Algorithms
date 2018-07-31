@@ -1,9 +1,4 @@
 // Quick Sort
-//CLRS
-//Divide And Conquer
-//Recursive
-//Time Complexity : O(nlogn) - Best / Average Case
-//		    O(n*n) - Worst Case
 
 #include <bits/stdc++.h>
 
