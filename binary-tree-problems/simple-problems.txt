@@ -1,0 +1,15 @@
+1.Check if an array represents Inorder of Binary Search tree or not
+
+soln : check if the array is sorted or not
+
+2.Find the second largest element in a BST
+
+soln : inorder traversal of the array generates the sorted order and from there find the element before the last element
+
+3.Check if two BSTs contain same set of elements
+
+soln : inorder traverse the two bsts to generate sorted arrays.then check if the two arrays are same in size or not.if not same then return false
+       else loop to the size and check that if the corresponding elements of the arrays are same ....if all the elements match return true;
+
+
+
