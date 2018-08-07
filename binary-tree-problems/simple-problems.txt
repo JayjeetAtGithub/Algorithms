@@ -12,4 +12,10 @@ soln : inorder traverse the two bsts to generate sorted arrays.then check if the
        else loop to the size and check that if the corresponding elements of the arrays are same ....if all the elements match return true;
 
 
+4.Print all the nodes between 2 levels in a Binary tree
 
+soln : traverse the tree levelwise and for each level check if that level is >= low_level && level <= high_level
+       if true print the nodes
+
+
+5.
