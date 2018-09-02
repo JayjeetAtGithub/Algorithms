@@ -10,14 +10,12 @@ ll getTotal(ll n , ll memo[]){
 }
 
 int main(){
-    ll n;
-
-    while(cin>>n){
-        ll *memo = new ll[n];
+    ll n , t;
+    cin >> t;
+    while(t--){
+        cin >> n;
+        ll *memo = new ll[n+1];
         cout << getTotal(n,memo) << endl;
     }
 }
-
-
-
 
